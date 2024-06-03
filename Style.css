@@ -1,0 +1,8 @@
+
+style.css
+html, body {
+  mergin: 0;
+  padding: 0;
+}
+canvas { 
+  display: block;
